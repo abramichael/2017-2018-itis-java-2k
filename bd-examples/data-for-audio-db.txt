@@ -1,0 +1,25 @@
+users
+13 mavrin
+14 alsu
+15 mark
+
+artists
+21 deep purple
+22 imagine dragons
+23 suicide silence
+
+songs
+31 smoke on the water
+32 burn
+33 child in time
+34 believer
+35 disengage
+
+user_albums
+13 31
+13 32
+13 33
+14 34
+15 35
+14 33
+15 31
